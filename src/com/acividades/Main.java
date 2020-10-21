@@ -3,7 +3,7 @@ package com.acividades;
 public class Main {
 
     public static void main(String[] args) {
-        int num1 = 2;
+        int num1 = 2, num3 = 4;
         int num2 = 2;
         int resultat = num1 + num2;
 
