@@ -9,7 +9,7 @@ public class Exercici4 {
         numero = numin.nextInt();
 
         while (numero % 2 != 0) {
-            System.out.print("Incorrecte. Introdueix un altre numero");
+            System.out.print("Incorrecte. Introdueix un altre numero: ");
             numero = numin.nextInt();
         }
     }
